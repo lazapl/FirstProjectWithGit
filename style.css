@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+    background-color: black;
+}
+p{
+    font-size: 48px;
+    color: white;
+}
